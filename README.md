@@ -1,11 +1,8 @@
-# Overview of Numpty Random Package
+# Emerging Technologies Project
+G00362038
 
 ***
 
 This repository contains a overview of the numpy.random package in jupiter notebook.
 
-## How to run the notebook
-
-1. Download [Anaconda]("https://www.anaconda.com/")
-2. Download [cmder]("https://cmder.net/") if on Windows
-3. Run `jupyter lab`
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DavidOLoughran/EmergingTechProject/blob/main/Scikit-learn.ipynb)
