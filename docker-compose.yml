@@ -1,12 +1,12 @@
 version: "3.9"
 services:
-  web:
+  jupyter:
     build: .
+    image: jupyter-qiskit
     ports:
       - "8888:8888"
     volumes:
-      - .:/code
+      - .:/home/jovyan/repo
     environment:
-      FLASK_ENV: development
-  redis:
-    image: "redis:alpine"
+      JUPYTER_ENABLE_LAB: "yes"
+      GRANT_SUDO: "yes"
