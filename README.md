@@ -3,7 +3,18 @@ G00362038
 
 ***
 
-This repository contains two Jupyter Notebooks the discussing Scikit-learn machine learning library and Quantum Computing with examples.
+This repository contains two Jupyter Notebooks discussing Scikit-learn machine learning library and Quantum Computing with examples.
+
+## Scikit Learn
+- Overview of scikit-learn machine learning library
+- Classification performed on the Bank Note Authentication Dataset
+- Meanshift Image Segmentation on the china image from sklearn datasets
+- Regression on the Real Estate Dataset
+
+## Quantum Deutch
+- Overview and comparison of Quantum Computing and Classical Computing
+- Explination of Deutsch's Algorithm
+- Simulation of Deutsch's Algorithm
 
 ## Getting started
 
