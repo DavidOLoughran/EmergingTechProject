@@ -31,4 +31,7 @@ This repository contains two Jupyter Notebooks the discussing Scikit-learn machi
    ```
 4. Follow the instructions displayed to access the notebooks/repository on Docker
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DavidOLoughran/EmergingTechProject/blob/main/Scikit-learn.ipynb)
+## View Online
+- Scikit Learn [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DavidOLoughran/EmergingTechProject/blob/main/Scikit-learn.ipynb)
+- Quantum_Deutsch[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DavidOLoughran/EmergingTechProject/blob/main/quantum_deutsch.ipynb)
+
