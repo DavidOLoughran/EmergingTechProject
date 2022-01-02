@@ -3,7 +3,18 @@ G00362038
 
 ***
 
-This repository contains two Jupyter Notebooks the discussing Scikit-learn machine learning library and Quantum Computing with examples.
+This repository contains two Jupyter Notebooks discussing Scikit-learn machine learning library and Quantum Computing with examples.
+
+## Scikit Learn
+- Overview of scikit-learn machine learning library
+- Classification performed on the Bank Note Authentication Dataset
+- Meanshift Image Segmentation on the china image from sklearn datasets
+- Regression on the Real Estate Dataset
+
+## Quantum Deutch
+- Overview and comparison of Quantum Computing and Classical Computing
+- Explination of Deutsch's Algorithm
+- Simulation of Deutsch's Algorithm
 
 ## Getting started
 
@@ -31,4 +42,7 @@ This repository contains two Jupyter Notebooks the discussing Scikit-learn machi
    ```
 4. Follow the instructions displayed to access the notebooks/repository on Docker
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DavidOLoughran/EmergingTechProject/blob/main/Scikit-learn.ipynb)
+## View Online
+- Scikit Learn [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DavidOLoughran/EmergingTechProject/blob/main/Scikit-learn.ipynb)
+- Quantum_Deutsch[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DavidOLoughran/EmergingTechProject/blob/main/quantum_deutsch.ipynb)
+
